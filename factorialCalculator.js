@@ -1,4 +1,6 @@
 
+// This function calculates the factorial of a number using recursion
+
 let no= 3; // Change this value to calculate factorial of a different number
 
 let arr=[];
